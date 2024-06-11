@@ -11,4 +11,4 @@ The research project has collected data countrywise on various types of delinque
 Final Report.pdf
 
 Tools and Technologies: Tableau, Jupyter Notebook, Data Visualization <br>
-Languages: Python (Numpy, Panda, Matplotlib, Seaborn) <br>
+Languages: Python (Numpy, Pandas, Matplotlib, Seaborn) <br>
